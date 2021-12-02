@@ -54,6 +54,6 @@ Find an appropriate conditions (Chopper, orientation) to measure the magnetic ex
     * the whole dispersion relation.
     * a magnified view near (0,0,1) to see if the energy gap exists or not. 
 
-
+Please make a ppt presentation in each group.
 
 
