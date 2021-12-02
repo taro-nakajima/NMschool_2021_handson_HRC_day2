@@ -10,9 +10,10 @@ When starting a neutron scattering experiment on a single crystal at HRC, we nee
 
 This is a diffraction pattern for a tetragonal crystal.
 * Lattice constants : a = b = 8.499 A, c = 5.528 A, alpha = beta = gamma = 90 deg.
-* Space group : P-4 21 m
+* Space group : P-42<sub>1</sub>m
 * (Nominal) horizontal scattering plane : (H,0,L)
 
+Let us determine the orientation of the crystal from this diffraction pattern by using a web application [Neutron Laue DIffraction Pattern Simulator for HRC(BL12)](https://nakajima.issp.u-tokyo.ac.jp/tools/hrc_laue_sim/)
 
 ### Problem 1
 Find the orientation of CsVCl3 crystal using the Web App. (30 min) Web appを使用
