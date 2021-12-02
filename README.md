@@ -13,12 +13,16 @@ This is a diffraction pattern for a tetragonal crystal.
 * Space group : P-42<sub>1</sub>m
 * (Nominal) horizontal scattering plane : (H,0,L)
 
-Let us determine the orientation of the crystal from this diffraction pattern by using a web application [Neutron Laue DIffraction Pattern Simulator for HRC(BL12)](https://nakajima.issp.u-tokyo.ac.jp/tools/hrc_laue_sim/)
+Let us determine the orientation of the crystal from this diffraction pattern by using a web application [Neutron Laue DIffraction Pattern Simulator for HRC(BL12)](https://nakajima.issp.u-tokyo.ac.jp/tools/hrc_laue_sim/).
 
 ### Problem 1
-Find the orientation of CsVCl3 crystal using the Web App. (30 min) Web appを使用
-(2) Lecture on spin-excitations in ferromagnets, and (1D) antiferromagnets (30 min)
-(3) How to measure magnetic excitations of a 1D antiferromagnet. (15 min)
+In the latter part of this training, we will try data analysis of inelastic neutron scattering spectra of a 1D antiferromagnet CsVCl<sub>3</sub>. Before the inelastic part, let us try the alignment of the crystal.
+* 
+
+### Sec. 2: Spin-excitations in ferromagnets, and (1D) antiferromagnets
+
+### Sec. 3: How to measure magnetic excitations of a 1D antiferromagnet
+
 (4) Frequency dependence of intensity and resolution of the Fermi choppers of HRC (15 min)
 [Problem 2] Find an appropriate conditions (Chopper, orientation) to measure the magnetic excitations in CsVCl3 using web apps. (discussion+presentation) (45 min) Web appを使用し、必要があれば
 
