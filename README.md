@@ -46,6 +46,7 @@ Find an appropriate conditions (Chopper, orientation) to measure the magnetic ex
 
 <img width="600" alt="CsVCl3" src="https://user-images.githubusercontent.com/50174733/144434020-390588be-4fdc-4b5d-9b1c-b0d76452ba41.png">
 
+Preliminary info.
 * CsVCl<sub>3</sub> exhibits 1D spin excitation along the (0,0,L) direction. 
 * The dispersion relation depends only on the L index.
 * The excitation energy at the Brillouin zone boundary is about 70 meV.
