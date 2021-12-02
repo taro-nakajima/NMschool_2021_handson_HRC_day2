@@ -20,6 +20,5 @@ Find the orientation of CsVCl3 crystal using the Web App. (30 min) Web appを使
 (3) How to measure magnetic excitations of a 1D antiferromagnet. (15 min)
 (4) Frequency dependence of intensity and resolution of the Fermi choppers of HRC (15 min)
 [Problem 2] Find an appropriate conditions (Chopper, orientation) to measure the magnetic excitations in CsVCl3 using web apps. (discussion+presentation) (45 min) Web appを使用し、必要があれば
-![image](https://user-images.githubusercontent.com/50174733/144362100-1ed69ad2-461e-4675-82c6-687c9c95b1b8.png)
 
 
