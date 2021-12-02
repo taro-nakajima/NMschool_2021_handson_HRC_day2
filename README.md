@@ -8,7 +8,10 @@ When starting a neutron scattering experiment on a single crystal at HRC, we nee
 
 ![Run014190s](https://user-images.githubusercontent.com/50174733/144376337-cc8e8707-e416-4f50-8db9-2edfd741b45a.png)
 
-This is a diffraction pattern
+This is a diffraction pattern for a tetragonal crystal.
+* Lattice constants : a = b = 8.499 A, c = 5.528 A, alpha = beta = gamma = 90 deg.
+* Space group : P-4 21 m
+* (Nominal) horizontal scattering plane : (H,0,L)
 
 
 ### Problem 1
