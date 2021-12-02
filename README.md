@@ -23,6 +23,8 @@ Preliminary info. on CsVCl<sub>3</sub>
 * Space group : P 6<sub>3</sub>/mmc
 * (Nominal) horizontal scattering plane : (H,0,L)
 
+<img width="300" alt="CsVCl3" src="https://user-images.githubusercontent.com/50174733/144379043-021a4e1d-5f29-402c-960a-f2ffd56646ff.png">
+
 
 ### Sec. 2: Spin-excitations in ferromagnets, and (1D) antiferromagnets
 
