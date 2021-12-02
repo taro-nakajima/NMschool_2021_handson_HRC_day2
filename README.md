@@ -55,5 +55,10 @@ Find an appropriate conditions (Chopper, orientation) to measure the magnetic ex
     * a magnified view near (0,0,1) to see if the energy gap exists or not. 
 
 Please make a ppt presentation in each group.
+The presentation should contain
+1. Chopper frequency.
+2. Orientation of the crystal.
+3. Accessible Q-E ranges for multiple Ei.
+4. Energy resolution and intensity.
 
 
