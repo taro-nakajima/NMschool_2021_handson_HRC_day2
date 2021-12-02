@@ -19,9 +19,9 @@ Let us determine the orientation of the crystal from this diffraction pattern by
 In the latter part of this training, we will try data analysis of inelastic neutron scattering spectra of a 1D antiferromagnet CsVCl<sub>3</sub>. Before the inelastic part, let us try the alignment of the crystal.
 
 *Preliminary info. on CsVCl<sub>3</sub>
-        - Lattice constants : a = b = 7.23700 A, c = 6.02600 A, alpha = beta = 90 deg,  gamma = 120 deg.
-        - Space group : P 6<sub>3</sub>/mmc
-        - (Nominal) horizontal scattering plane : (H,0,L)
+        * Lattice constants : a = b = 7.23700 A, c = 6.02600 A, alpha = beta = 90 deg,  gamma = 120 deg.
+        * Space group : P 6<sub>3</sub>/mmc
+        * (Nominal) horizontal scattering plane : (H,0,L)
 
 <img width="600" alt="CsVCl3" src="https://user-images.githubusercontent.com/50174733/144379217-b996c811-c1dc-44f1-9631-f1500287977f.png">
 
