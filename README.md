@@ -31,13 +31,14 @@ In the latter part of this training, we will try data analysis of inelastic neut
 * Determine the orientation of the crystal using [Neutron Laue DIffraction Pattern Simulator for HRC(BL12)](https://nakajima.issp.u-tokyo.ac.jp/tools/hrc_laue_sim/).
 * Once we obtained the correct orientation, we can reproduce diffraction patterns measured other orientations. For example, "scan02_Omega_-60deg.png" is the diffraction pattern measured at omega=-60 deg. Please confirm that this diffraction pattern agrees with the simulation by applying -28 deg rotation about the z axis (= omega axis). 
 
-### Sec. 2: Spin-excitations in ferromagnets, and (1D) antiferromagnets
+## Sec. 2: Spin-excitations in ferromagnets, and (1D) antiferromagnets
 
-### Sec. 3: How to measure magnetic excitations of a 1D antiferromagnet
+### Sec. 2-1: How to measure magnetic excitations of a 1D antiferromagnet
 
 * [Accessible Q-E range of HRC(BL12)](https://nakajima.issp.u-tokyo.ac.jp/tools/hrc_qe_range/)
 
-### Sec. 4: Frequency dependence of intensity and resolution of the Fermi choppers of HRC
+## Sec. 4: The Fermi choppers of HRC
+### Frequency dependence of intensity and resolution
 
 * [Flux/Resolution Simulator of HRC(BL12)](https://nakajima.issp.u-tokyo.ac.jp/tools/hrc_flux_reso_simulator/)
 
