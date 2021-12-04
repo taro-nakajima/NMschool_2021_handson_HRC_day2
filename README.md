@@ -38,7 +38,7 @@ These crystal structures are drawn by [VESTA](https://jp-minerals.org/vesta/jp/)
 
 * [Accessible Q-E range of HRC(BL12)](https://nakajima.issp.u-tokyo.ac.jp/tools/hrc_qe_range/)
 
-## Sec. 4: The Fermi choppers of HRC
+## Sec. 3: The Fermi choppers of HRC
 ### Frequency dependence of intensity and resolution
 
 * [Flux/Resolution Simulator of HRC(BL12)](https://nakajima.issp.u-tokyo.ac.jp/tools/hrc_flux_reso_simulator/)
