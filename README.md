@@ -40,13 +40,13 @@ The crystal structures above are drawn by [VESTA](https://jp-minerals.org/vesta/
 
 * [Accessible Q-E range of HRC(BL12)](https://nakajima.issp.u-tokyo.ac.jp/tools/hrc_qe_range/)
 
-## Sec. 3: The Fermi choppers of HRC
+## Sec. 3: Finding optimum conditions for inelastic scattering measurements on CsVCl<sub>3</sub> 
 ### Frequency dependence of intensity and resolution
 
 * [Flux/Resolution Simulator of HRC(BL12)](https://nakajima.issp.u-tokyo.ac.jp/tools/hrc_flux_reso_simulator/)
 
 ### Problem 2
-Find an appropriate conditions (Chopper, orientation) to measure the magnetic excitations in CsVCl<sub>3</sub> using web apps introduced above. 
+Find optimum conditions (Chopper, orientation) to measure the magnetic excitations in CsVCl<sub>3</sub> using web apps introduced above. 
 
 <img width="600" alt="CsVCl3" src="https://user-images.githubusercontent.com/50174733/144434020-390588be-4fdc-4b5d-9b1c-b0d76452ba41.png">
 
