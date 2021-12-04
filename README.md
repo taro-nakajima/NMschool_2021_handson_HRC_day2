@@ -24,6 +24,7 @@ In the latter part of this training, we will try data analysis of inelastic neut
     * (Nominal) horizontal scattering plane : (H,H,L) (u=(1,1,0), v=(0,0,1))
 
 <img width="600" alt="CsVCl3" src="https://user-images.githubusercontent.com/50174733/144379217-b996c811-c1dc-44f1-9631-f1500287977f.png">
+These crystal structures are drawn by [VESTA](https://jp-minerals.org/vesta/jp/) program.
 
 * "scan01_Omega_-88deg.png" is the diffraction pattern measured when the Omega angle was –88 deg. (Note that there were only two detector banks when this data was measured.) The nominal orientation of the crystal was shown below.
 <img width="600" alt="CsVCl3" src="https://user-images.githubusercontent.com/50174733/144383253-9293460a-315e-4efd-a289-f0b4f794dec5.png">
