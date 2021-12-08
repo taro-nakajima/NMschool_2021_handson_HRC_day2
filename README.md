@@ -54,16 +54,17 @@ Preliminary info.
 * CsVCl<sub>3</sub> exhibits 1D spin excitation along the (0,0,L) direction. 
 * The dispersion relation depends only on the L index.
 * The bandiwdth of the excitation is estimated to be 70 meV (from magnetic susceptibility measurements).
-* There might be a small energy gap at (0,0,1).
+* We need to determine the bandwidth (and the highest energy at the zone boundary L=0.5).
+* We also need to investigate whether an energy gap exits at L=1 or not.
 * It would be convenient to simultaneously measure 
     * the whole dispersion relation.
-    * a magnified view near (0,0,1) to see if the energy gap exists or not. 
+    * a magnified view near L=1 to see if the energy gap exists or not. 
 
 Please make a ppt presentation in each group.
 The presentation should contain
 1. Chopper frequency.
 2. Orientation of the crystal.
-3. Accessible Q-E ranges for multiple Ei.
+3. Accessible Q-E ranges for multiple E_i.
 4. Energy resolution and intensity.
 
 
