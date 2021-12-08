@@ -64,7 +64,7 @@ Please make a ppt presentation in each group.
 The presentation should contain
 1. Chopper frequency.
 2. Orientation of the crystal.
-3. Accessible Q-E ranges for multiple E_i.
+3. Accessible Q-E ranges for multiple E<sub>i</sub>.
 4. Energy resolution and intensity.
 
 
